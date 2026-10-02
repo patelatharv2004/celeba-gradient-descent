@@ -1,0 +1,6 @@
+   img_align_celeba/
+   list_attr_celeba.txt
+   list_eval_partition.txt
+   *.zip
+   .ipynb_checkpoints/
+   .DS_Store
